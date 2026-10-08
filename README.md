@@ -1,4 +1,4 @@
-<p align="center">
+Web<p align="center">
  <img src="./assets/icon0.png" width="128" />
 </p>
 <h1 align="center">PS5 Payload Manager</h1>
